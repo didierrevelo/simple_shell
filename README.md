@@ -7,7 +7,19 @@ This shell is the simplest interpretation, this program introduces us both in th
 Our simple_shell interpret an execute commad line arguments
 
 ## usage
+all files will be compiled with the ubuntu 14.04 distribution with the command.
 ```
 gcc -Wall -Werror -Wextra -pedantic *.c -o hsh
 ```
+
+When compiled, the program will launch with:
+```
+./hsh
+```
+
+to exit the program, type:
+```
+$ exit
+```
+
 
