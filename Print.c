@@ -5,7 +5,7 @@
  * shell is in interactive mode
  * Return: void
  */
-void Print(void)
+void printerPrompt(void)
 {
 	if ((isatty(STDIN_FILENO) == 1) && (isatty(STDOUT_FILENO) == 1))
 		flag.interactive = 1;
