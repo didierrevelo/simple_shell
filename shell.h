@@ -39,4 +39,8 @@ struct flag
 	bool interactive;
 } flag;
 
+<<<<<<< HEAD
 #endif
+=======
+#endif
+>>>>>>> didier
