@@ -21,6 +21,6 @@ to exit the program, type:
 ```
 $ exit
 ```
-
+the simple shell support the commans of the normal shell
 
 # simple_shell
