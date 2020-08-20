@@ -23,3 +23,7 @@ $ exit
 ```
 the simple shell support the commans of the normal shell
 
+<<<<<<< HEAD
+=======
+# simple_shell
+>>>>>>> a0f6a98aa366c9c2ff6c22176318c0ec473e326c
