@@ -24,7 +24,7 @@ unsigned int _strlen(char *str);
 char *_strncpy(char *dest, char *src, int n);
 int _strcmp(char *s1, char *s2);
 char **strtoken(char *string);
-void printerPrompt(void);
+void Print(void);
 
 /**
  * struct flag - Holds flags
